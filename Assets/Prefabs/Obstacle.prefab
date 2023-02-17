@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 4590274333543975736}
   - component: {fileID: 6918513729734484811}
   - component: {fileID: 4528182459748982707}
-  - component: {fileID: 7252305628781786678}
+  - component: {fileID: -1463524158349680838}
   m_Layer: 0
   m_Name: Obstacle
   m_TagString: Obstacle
@@ -64,7 +64,7 @@ Rigidbody:
   m_Interpolate: 0
   m_Constraints: 0
   m_CollisionDetection: 0
---- !u!114 &7252305628781786678
+--- !u!114 &-1463524158349680838
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
